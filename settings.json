@@ -1,0 +1,12 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "atomKeymap.promptV3Features": true,
+    "files.autoSave": "afterDelay",
+    "gitlens.historyExplorer.enabled": true,
+    "window.zoomLevel": 0,
+    "window.titleBarStyle": "custom",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "editor.fontFamily": "'Hack Regular', 'monospace', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+}
