@@ -25,13 +25,5 @@
         "key": "ctrl+shift+alt+down",
         "command": "-editor.action.copyLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "a",
-        "command": "explorer.newFile"
-    },
-    {
-        "key": "shift+a",
-        "command": "explorer.newFolder"
     }
 ]
